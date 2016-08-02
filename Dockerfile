@@ -17,6 +17,7 @@ RUN apt-get update \
   php5-gd \
   php5-ldap \
   php5-ssh2 \
+  php5-dev \
   libssh2-php \
   ssh \
   git \
